@@ -1,0 +1,20 @@
+.main_container{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(245, 222, 179, 0.423);
+}
+span{
+    /* border: 1px solid red; */
+    /* margin: 4rem; */
+    padding: 10px  50px 10px 50px;
+    font-size: xx-large;
+    font-style: oblique;
+    border: none;
+    background-color: rgb(202, 139, 13);
+    border-radius: 20px;
+}

@@ -1,0 +1,11 @@
+button{
+    margin: 4rem;
+    padding: 0.8rem;
+    cursor: pointer;
+    border-radius:.5rem ;
+    background-color:wheat;
+    border: none;
+    font-size: large;
+    font-weight: bolder;
+}
+

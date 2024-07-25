@@ -1,0 +1,42 @@
+#Container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: inherit;
+    background-color:white;
+}
+#user{
+    height: 50vh;
+    width: 20rem;
+    border: 1px solid red;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* row-gap: 10px; */
+    position: absolute;
+    border-radius: 20px;
+}
+input{
+    border: 1px solid black;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 5px;
+}
+img{
+    height: 3rem;
+    width: 8rem;
+}
+button{
+    padding: 5px;
+}
+
+#footer span{
+    color: rgb(43, 98, 226);
+    font-size: large;
+    font-weight: bold;
+    text-decoration:underline; 
+    cursor: pointer;
+}
